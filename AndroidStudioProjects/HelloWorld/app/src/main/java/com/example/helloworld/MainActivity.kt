@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         helloTextView.setOnClickListener {
             // You can add any action you want when the TextView is clicked
             // For now, let's just change the text
-            helloTextView.text = "Hello Clicked!"
+            helloTextView.text = "Hello Clicked!";
         }
     }
 }
